@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  width: 30%;
+  background-color: rgb(252, 147, 182);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.image{
+  width: 70%;
+}
